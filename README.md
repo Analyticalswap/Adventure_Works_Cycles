@@ -35,9 +35,10 @@ Top Countries:
 🇨🇦 Canada: 1,570 (8.51%)
 
 
-
 🧑‍💼 Top Customers by Sales
 
 Jordan Turner: $16K
 Willie Xu, Kaitlyn Henderson, Nichole Nara: ~$13.3K each
 Brad She: $132K – highest individual sales
+
+
